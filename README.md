@@ -9,7 +9,9 @@ Sou Desenvolvedor Back-end, com breve conhecimento em Front-end.
 
 Desenvolvedor Back-end com foco em aplicações eficientes.
 
-🌐 Stack: Linguagens: C#, Angular, SQL Server, MongoDB
+🌐 Stack:
+
+C#, Angular, SQL Server, MongoDB
 
 📚 Graduando em Analise e Desenvolvimento de Sistemas. 
 
