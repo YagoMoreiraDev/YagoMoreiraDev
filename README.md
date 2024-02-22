@@ -11,7 +11,7 @@ Desenvolvedor Back-end com foco em aplicações eficientes.
 
 🌐 Stack:
 
-C#, Angular, SQL Server, MongoDB
+Java, SpringBoot, Angular, SQL Server, MongoDB
 
 📚 Graduando em Analise e Desenvolvimento de Sistemas. 
 
@@ -21,8 +21,8 @@ Apaixonado por tecnologia e em constante busca por aprimoramento e atualização
 
 <br/>
 <div style="display: inline_block">
-  <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp">
-  <img align="center" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="net">
+  <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" src= "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular">
   <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap">
   <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript">
