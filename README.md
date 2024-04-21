@@ -11,27 +11,51 @@ Desenvolvedor Back-end com foco em aplicações eficientes.
 
 🌐 Stack:
 
-Java, SpringBoot, Angular, SQL Server, MongoDB
+Java, SpringBoot, React, PostgreSQL, MongoDB
 
 📚 Graduando em Analise e Desenvolvimento de Sistemas. 
 
 Apaixonado por tecnologia e em constante busca por aprimoramento e atualização com as últimas tendências tecnológicas.
+<br/><br/>
+<a href="https://www.linkedin.com/in/yago-moreira/" rel="nofollow">
+    <img src="https://github.com/Cabraiz/passo-lar/blob/produ%C3%A7%C3%A3o/src/assets/icones/22%20(1).png?raw=true" style="width: 40px">
+</a>
+<img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/b1b4f3c9-0553-4367-adfa-44958c40c7b2" style="width: 1%"></a>
+<a href="https://wa.me/5585985830600" rel="nofollow">
+    <img src="https://github.com/Cabraiz/passo-lar/blob/produ%C3%A7%C3%A3o/src/assets/icones/22%20(2).png?raw=true" style="width: 40px">
+</a>
+<img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/b1b4f3c9-0553-4367-adfa-44958c40c7b2" style="width: 1%"></a>
+<a href="mailto:yagomoreira.esp@gmail.com">
+    <img src="https://github.com/Cabraiz/passo-lar/blob/produ%C3%A7%C3%A3o/src/assets/icones/19.png?raw=true" style="width: 40px">
+</a>
+<img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/b1b4f3c9-0553-4367-adfa-44958c40c7b2" style="width: 1%"></a>
+<a href="https://www.instagram.com/yagoomoreira/" rel="nofollow">
+    <img src="https://github.com/Cabraiz/passo-lar/blob/produ%C3%A7%C3%A3o/src/assets/icones/20.png?raw=true" style="width: 40px">
+</a>
 
 ##
+<div>
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/ee5a73e1-edaa-4c73-9da4-34a2fcdef6c6" style="width: 90px"></a>
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/67b35155-3504-4591-9742-9896d24be6bf" style="width: 90px"></a>
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/b1b4f3c9-0553-4367-adfa-44958c40c7b2" style="width: 1%"></a>
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/15924689-9cf8-4802-ae96-5270e58433cc" style="width: 90px"></a>
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/b1b4f3c9-0553-4367-adfa-44958c40c7b2" style="width: 1%"></a>
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/ea0552f5-f982-45d3-b89e-f307a64419f4" style="width: 90px"></a>
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/b1b4f3c9-0553-4367-adfa-44958c40c7b2" style="width: 1%"></a>
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/32da5874-752d-41f5-9516-951a2662bcca" style="width: 90px"></a>
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/b1b4f3c9-0553-4367-adfa-44958c40c7b2" style="width: 1%"></a>
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/d80723ef-6556-4349-86e6-a6e9b906ea88" style="width: 90px"></a>
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/b1b4f3c9-0553-4367-adfa-44958c40c7b2" style="width: 1%"></a>
+    <img src="https://i.imgur.com/rHGMRGR.png" style="width: 90px"></a>
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/b1b4f3c9-0553-4367-adfa-44958c40c7b2" style="width: 1%"></a>
+</div>
+<div>
+   
+   
+</div>
 
-<br/>
-<div style="display: inline_block">
-  <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="center" src= "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular">
-  <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap">
-  <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript">
-  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
-  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3">
-  <img align="center" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="sqlserver">
-</div><br/><br/>
+<br/><br/>
 
 ![Yago GitHub stats](https://github-readme-stats.vercel.app/api?username=YagoMoreiraDev&theme=algolia&show_icons=true)
 
 ##
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/yago-moreira/)
