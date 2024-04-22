@@ -37,6 +37,8 @@ Apaixonado por tecnologia e em constante busca por aprimoramento e atualização
 <div>
     <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/ee5a73e1-edaa-4c73-9da4-34a2fcdef6c6" style="width: 90px"></a>
     <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/b1b4f3c9-0553-4367-adfa-44958c40c7b2" style="width: 1%"></a>
+    <img src="https://github.com/YagoMoreiraDev/YagoMoreiraDev/assets/134162755/fdcbb98b-716e-462f-8c2f-d6b0989fe2b3" style="width: 90px"><a/>
+    <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/b1b4f3c9-0553-4367-adfa-44958c40c7b2" style="width: 1%"></a>
     <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/67b35155-3504-4591-9742-9896d24be6bf" style="width: 90px"></a>
     <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/b1b4f3c9-0553-4367-adfa-44958c40c7b2" style="width: 1%"></a>
     <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/15924689-9cf8-4802-ae96-5270e58433cc" style="width: 90px"></a>
@@ -50,13 +52,5 @@ Apaixonado por tecnologia e em constante busca por aprimoramento e atualização
     <img src="https://i.imgur.com/rHGMRGR.png" style="width: 90px"></a>
     <img src="https://github.com/Cabraiz/Cabraiz/assets/47371964/b1b4f3c9-0553-4367-adfa-44958c40c7b2" style="width: 1%"></a>
 </div>
-<div>
-   
-   
-</div>
-
-<br/><br/>
-
-![Yago GitHub stats](https://github-readme-stats.vercel.app/api?username=YagoMoreiraDev&theme=algolia&show_icons=true)
 
 ##
